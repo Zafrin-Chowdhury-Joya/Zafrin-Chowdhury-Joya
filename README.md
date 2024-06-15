@@ -8,7 +8,7 @@
 
 Skills: 🛠️ **Technical Skills:- Testing:** Manual Testing, Requirement Analysis, Test Planning, Test Case Design and Review, Test Execution and Evaluation, UI Testing.  **Concepts:** SDLC, STLC, OOP **Databases:** MySQL **Programming Languages:** Java, Python **Technical Tools:** LaTeX (for documentation), Xmind. 📊 I leverage my expertise in ensuring software quality by employing Manual Testing methodologies, coupled with my proficiency in Java and Python. Additionally, my knowledge extends to managing databases using MySQL, and I am well-versed in creating precise and comprehensive documentation using LaTeX.  🌐 If you're seeking an SQA Engineer with a meticulous approach to quality assurance, strong analytical skills, and a continuous improvement mindset, let's connect! I believe in effective communication and am fluent in both English and Bangla. Looking forward to contributing to your software development success 
 
-- 🌱 I’m currently learning Manual Testing  
+- 🌱 I’m currently learning Automation Testing  
 - 📫 How to reach me: zafrinchowdhury.045@gmail.com 
 
 
