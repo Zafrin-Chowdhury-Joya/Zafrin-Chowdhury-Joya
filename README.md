@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **zafrinchowdhury.045@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/u/0/home](https://drive.google.com/drive/u/0/home)
+- 📄 Know about my experiences [Drive Link](https://drive.google.com/file/d/1_xc06V47lTDvSHtyjGGu5oQ_B8KTIFsF/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
