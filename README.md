@@ -1,15 +1,23 @@
-### Hi there 👋, I am  Zafrin Chowdhury
-#### A passionate Software Quality Assurance Engineer 
+<h1 align="center">Hi 👋, I'm Zafrin Chowdhury</h1>
+<h3 align="center">A passionate Software Quality Assurance (SQA) from Dhaka, Bangladesh.</h3>
+
 ![A passionate Software Quality Assurance Engineer ](https://github.com/Zafrin-Chowdhury-Joya/Zafrin-Chowdhury-Joya/blob/main/Banner.jpeg)
 
-💬 Ask me about Hello there! 👋 I'm Zafrin Chowdhury, a dedicated Software Quality Assurance (SQA) Engineer with a passion for ensuring the reliability and functionality of software applications. 🚀 Based in Dhaka,Bangladesh, I bring a solid foundation in Computer Science, graduating with excellence (CGPA:3.87), and I specialize in Manual Testing with a focus on various aspects such as Requirement Analysis, Test Planning, Designing, Writing, Bug reporting, Test report and Reviewing Test Cases.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zafrinchowdhury&label=Profile%20views&color=0e75b6&style=flat" alt="zafrinchowdhury" /> </p>
 
-💻 Proficient in a variety of skills, I excel in executing comprehensive test strategies, including UI Testing and creating detailed Test Reports and Mind Maps. My commitment to quality assurance extends to understanding and implementing concepts like Software Development Life Cycle (SDLC), Software Testing Life Cycle (STLC), and Object-Oriented Programming (OOP).
+- 💬 Hello! I'm Zafrin Chowdhury, a dedicated Software Quality Assurance (SQA) Engineer. I specialize in manual testing, API testing, performance testing, and automation testing. I use tools like Postman, Jmeter, and Selenium, and I know programming languages like Java and Python.<br/> I am good at using different browsers, TestNG annotations, and handling alerts, pop-ups, assertions, and tab/window handling. I can interact with WebElements, handle refresh/back/forward navigation, I-frames, waits, mouse hovering, scrolling, and WebElement locators in Selenium.<br/> I have worked on many projects, creating and running test cases to ensure high-quality software. I'm committed to making software reliable and keeping customers happy. Check out my projects and connect with me on GitHub and LinkedIn to learn more about my work.
 
-Skills: 🛠️ **Technical Skills:- Testing:** Manual Testing, Requirement Analysis, Test Planning, Test Case Design and Review, Test Execution and Evaluation, UI Testing.  **Concepts:** SDLC, STLC, OOP **Databases:** MySQL **Programming Languages:** Java, Python **Technical Tools:** LaTeX (for documentation), Xmind. 📊 I leverage my expertise in ensuring software quality by employing Manual Testing methodologies, coupled with my proficiency in Java and Python. Additionally, my knowledge extends to managing databases using MySQL, and I am well-versed in creating precise and comprehensive documentation using LaTeX.  🌐 If you're seeking an SQA Engineer with a meticulous approach to quality assurance, strong analytical skills, and a continuous improvement mindset, let's connect! I believe in effective communication and am fluent in both English and Bangla. Looking forward to contributing to your software development success 
+- 📫 How to reach me **zafrinchowdhury.045@gmail.com**
 
-- 🌱 I’m currently learning Automation Testing  
-- 📫 How to reach me: zafrinchowdhury.045@gmail.com 
+- 📄 Know about my experiences [https://drive.google.com/drive/u/0/home](https://drive.google.com/drive/u/0/home)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/zafrinchowdhury" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zafrinchowdhury" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
 
 
 
