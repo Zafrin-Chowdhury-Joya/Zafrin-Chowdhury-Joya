@@ -16,30 +16,30 @@ Passionate about delivering high-quality, reliable, and user-friendly software s
 
 ---
 
-## 👩‍💻 About Me
+## About Me
 
-- 🔍 Software Quality Assurance Engineer with experience in Manual Testing, Automation Testing, API Testing, and Performance Testing  
-- 🌱 Skilled in Selenium WebDriver, Playwright, Postman, Newman, JMeter, and Cross-Browser Testing  
-- 💻 Experienced with Java and Python for automation scripting and testing frameworks  
-- 🧪 Strong understanding of SDLC, STLC, Agile/Scrum methodologies, and Defect Lifecycle  
-- 📊 Experienced in Functional Testing, UI/UX Testing, Regression Testing, Smoke Testing, and Accessibility Testing  
-- ⚡ Familiar with TestNG, Assertions, Waits, Iframes, Alerts, Pop-ups, Window Handling, and WebElement Locators  
-- 🛠️ Experienced in Jira, Git, Trello, OpenProject, and YouTrack for project and bug management  
-- 🚀 Interested in AI-powered testing frameworks, performance optimization, and modern QA automation practices  
+- Software Quality Assurance Engineer with experience in Manual Testing, Automation Testing, API Testing, and Performance Testing  
+- Skilled in Selenium WebDriver, Playwright, Postman, Newman, JMeter, and Cross-Browser Testing  
+- Experienced with Java and Python for automation scripting and testing frameworks  
+- Strong understanding of SDLC, STLC, Agile/Scrum methodologies, and Defect Lifecycle  
+- Experienced in Functional Testing, UI/UX Testing, Regression Testing, Smoke Testing, and Accessibility Testing  
+- Familiar with TestNG, Assertions, Waits, Iframes, Alerts, Pop-ups, Window Handling, and WebElement Locators  
+- Experienced in Jira, Git, Trello, OpenProject, and YouTrack for project and bug management  
+- Interested in AI-powered testing frameworks, performance optimization, and modern QA automation practices  
 
 ---
 
-## 📫 Contact Me
+## Contact Me
 
-- 📧 Email: **zafrinchowdhury.047@gmail.com**
-- 💼 LinkedIn: **www.linkedin.com/in/zafrin-chowdhury**
-- 💻 GitHub: **github.com/Zafrin-Chowdhury-Joya**
+- Email: **zafrinchowdhury.047@gmail.com**
+- LinkedIn: **www.linkedin.com/in/zafrin-chowdhury**
+- GitHub: **github.com/Zafrin-Chowdhury-Joya**
 
 ---
 
 ## 📄 Resume
 
-<a href="YOUR_DRIVE_LINK_HERE" target="_blank">
+<a href="https://drive.google.com/file/d/12KGPhUIkJeSWeG76gi8_F8OG50zA5Nj0/view?usp=sharing" target="_blank">
   <img src="https://img.shields.io/badge/Resume-View-green?style=for-the-badge&logo=google-drive" />
 </a>
 
